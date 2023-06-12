@@ -57,7 +57,7 @@ const users = [
     givenName: "Bharathi",
     surname: "Gunasekar",
     status: "active",
-    email: "user1@outlook.com",
+    email: "userbharathi@outlook.com",
   },
   {
     user: "user1",
